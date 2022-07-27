@@ -1,5 +1,5 @@
-# Project01-Trending2025
+# UI-Project01
 
-This is the first project of mine while learning Full Stack Javascript Web Developer by **Hitesh Chaudhary** @Ineuron
+This is the first project of Full Stack Javascript Web Developer by **Hitesh Chaudhary** @Ineuron
 
 ## [GO LIVE](https://ui-project01.netlify.app/)
